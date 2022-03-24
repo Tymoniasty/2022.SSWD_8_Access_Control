@@ -2,8 +2,6 @@
 *Enda Lee 2022*
 
 
-[TOC]
-
 ## Introduction
 
 In this lab you will add access control based on user accounts. Users will be assigned roles which depending on their level of access, e.g., administrator,
