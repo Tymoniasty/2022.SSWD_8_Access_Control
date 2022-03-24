@@ -1,5 +1,5 @@
 # **Web API Lab: Access Control - Auth0 Setup**
-*Enda Lee 2021*
+*Enda Lee 2022*
 
 
 [TOC]
