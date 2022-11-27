@@ -77,7 +77,7 @@ The add a new application named Products Website, choosing the Single Page Web A
 ![](media/ceaed116af4aed25b9378b3c7c604677.png)
 
 After its added, open the new application to view its settings, the configure the Application URIs and save changes. The client app will be hosted the on
-<http://localhost:3000>
+**<http://localhost:5173>**
 ![](media/91fab7a2c7e4a2d3656461d31e56a767.png)
 
 ### Auth0 client web app configuration continued…
@@ -90,7 +90,7 @@ Sources of users for the application can be set in Connections – ensure that D
 
 ### The Logout URL
 
-Now add <http://localhost:3000> to the list of allowed logout URLs. This is where the user will be redirected after logging out (typically a home page or sign in page):
+Now add **<http://localhost:5173>** to the list of allowed logout URLs. This is where the user will be redirected after logging out (typically a home page or sign in page):
 
 Open the Tenant Settings (main account settings) using the link in the left menu (or direct link replace **elee-tudublin** with your account name:
 [https://manage.auth0.com/dashboard/eu/**elee-tudublin**/tenant/advanced](https://manage.auth0.com/dashboard/eu/elee-tudublin/tenant/advanced))
